@@ -2,10 +2,6 @@
 
 Este é um projeto de clone da interface do Instagram, desenvolvido utilizando apenas **HTML** e **CSS**. O projeto reproduz a página inicial de login e a página de cadastro do Instagram.
 
-## 🔥 Demonstração
-
-![Imagem do Projeto](assets/screenshot.png)
-
 ## 🚀 Tecnologias Utilizadas
 
 - **HTML5**: Estruturação da página.
